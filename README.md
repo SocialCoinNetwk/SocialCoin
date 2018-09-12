@@ -1,7 +1,7 @@
 Socialcoin integration/staging tree
 ================================
 
-http://www.socialcoin.org
+http://www.social-coin.co.uk
 
 Copyright (c) 2009-2014 Bitcoin Developers
 Copyright (c) 2017 SocialCoinNetwork Developers
